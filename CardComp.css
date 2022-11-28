@@ -1,0 +1,17 @@
+.CardComp {
+    height: 82%;
+}
+
+a {
+    color: rgb(20, 170, 224);
+}
+
+a:visited {
+    color: rgb(20, 170, 224);
+}
+
+.card-content {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
