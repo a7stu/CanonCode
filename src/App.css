@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+  position: relative;
+}
+
+.magenta-border {
+  border-top: 2px solid maroon;
+}
+
+.card-content {
+  display: flex;
+  flex-direction: column;
+  height: 82%;
+}
