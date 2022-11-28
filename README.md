@@ -1,3 +1,3 @@
-#Coding Assignment
+Coding Assignment
 
-##Tech Stack used: React, Vanilla Framework, HTML / CSS.
+Tech Stack used: React, Vanilla Framework, HTML / CSS.
